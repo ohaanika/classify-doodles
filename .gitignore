@@ -1,5 +1,6 @@
 .venv
-/checkpoint
 /.ipynb_checkpoints
+/checkpoint
+/code/.ipynb_checkpoints
 /datasets
 /model_res
